@@ -1,0 +1,35 @@
+Arrays notes
+Pattern 1:
+	Find Maximum
+	Find Minimum
+	Count Elements
+	Calcuate Sum:
+Think: Simple Traversal.
+
+Pattern 2:
+	Sorted Array
+	Pair Sum
+	Remove Duplicates
+	Palindrome
+Think: Two Pointer
+
+
+Pattern 3:
+	Longest
+	Shortest
+	SubArray
+	Continous
+	Consecutive
+Think Sliding Window
+
+Pattern 4:
+	Range Sum
+	SubArray sum
+	Sum Between indices
+Think: prefix sum
+
+		
+
+Sorted Array - Two pointers
+			 - Binary search
+			 	
