@@ -2,9 +2,9 @@ package com.String;
 
 public class Palindrome {
 	public static boolean isValidPalindrome(String str) {
-		int strlen = str.length();
-		str = str.toLowerCase();
 
+		str = str.toLowerCase();
+		//int strlen = str.length();
 		/*
 		 * for(int left =0;left<strlen/2;left++) { int right = strlen -1 - left;
 		 * if(str.charAt(left) != str.charAt(right)) { return false; } }
